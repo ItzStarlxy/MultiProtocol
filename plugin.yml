@@ -3,4 +3,4 @@ description: a old plugin that i was working on
 api: 3.x.x
 version: 1.0.0
 author: dctxdev & dantedevs
-main: dctxpmmp/protocol/MultiProtocolConnect/Main
+main: dctxpmmp/protocol/protocol/Main
