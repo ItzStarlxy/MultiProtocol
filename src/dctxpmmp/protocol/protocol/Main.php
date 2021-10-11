@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace dctxpmmp\MultiProtocolConnect;
+namespace dctxpmmp\protocol\protocol;
 
 use pocketmine\event\Listener;
 use pocketmine\event\server\DataPacketReceiveEvent;
