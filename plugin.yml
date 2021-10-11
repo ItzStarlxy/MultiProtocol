@@ -3,4 +3,4 @@ description: a test plugin that allows old versions of minecraft to work
 api: 3.x.x
 version: 1.0-dev
 author: dctxdev & dantedevs
-main: dctxpmmp/protocol/MultiProtocolConnect/main
+main: dctxpmmp/protocol/MultiProtocolConnect/Main
