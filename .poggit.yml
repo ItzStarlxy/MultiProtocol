@@ -5,5 +5,5 @@ branches:
 projects:
   MultiProtocolTest:
     path: ""
-    icon: icon.png
+    icon: multi.png
 ...
