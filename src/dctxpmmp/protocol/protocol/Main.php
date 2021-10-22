@@ -22,7 +22,7 @@ class Main extends PluginBase implements Listener {
 		if(!$pk instanceof LoginPacket) return;
 			if(ProtocolInfo::CURRENT_PROTOCOL ==  && ProtocolInfo::CURRENT_PROTOCOL == 465 && ProtocolInfo::CURRENT_PROTOCOL == 471){
 				if(ProtocolInfo::CURRENT_PROTOCOL == 440 or ProtocolInfo::CURRENT_PROTOCOL == 448){
-					if($pk->protocol >= 431 && $pk->protocol <= 441){
+					if($pk->protocol >= 437 && $pk->protocol <= 441){
 						$pk->protocol = ProtocolInfo::CURRENT_PROTOCOL;
 					}else{
 						$pk->protocol = $pk->protocol;
